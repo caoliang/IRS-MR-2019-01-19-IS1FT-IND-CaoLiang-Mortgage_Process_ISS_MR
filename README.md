@@ -45,7 +45,7 @@ Mortgage process system utilizes the machine reasoning technics to help the bank
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/caoliang/IRS-MR-2019-01-19-IS1FT-IND-CaoLiang-Mortgage_Process_ISS_MR/blob/master/ProjectReport/Project%20Report%20Mortgage%20Process%20System.pdf>
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary / Paper Abstract
@@ -62,9 +62,6 @@ Mortgage process system utilizes the machine reasoning technics to help the bank
 ---
 ## SECTION 7 : MISCELLANEOUS
 
-### HDB_BTO_SURVEY.xlsx
-* Results of survey
-* Insights derived, which were subsequently used in our system
 
 ---
 
