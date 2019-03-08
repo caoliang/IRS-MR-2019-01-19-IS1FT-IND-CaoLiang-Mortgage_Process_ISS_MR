@@ -64,7 +64,7 @@ Mortgage process system utilizes the machine reasoning technics to help the bank
 
 ---
 ## SECTION 7 : MISCELLANEOUS
-** S-MR bank loan example v001.xlsx
+**S-MR bank loan example v001.xlsx**
 - Sample data for machine reasoning rules
 
 ---
