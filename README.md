@@ -37,10 +37,13 @@ Mortgage process system utilizes the machine reasoning technics to help the bank
 
 > $ git clone https://github.com/caoliang/IRS-MR-2019-01-19-IS1FT-IND-CaoLiang-Mortgage_Process_ISS_MR.git
 
+> unzip "CaoLiang-Mortgage_Process_ISS_MR.zip" to folder "/home/iss-user/iss-vm-program/CaoLiang-Mortgage_Process_ISS_MR"
+
 > $ /home/iss-user/iss-vm-program/is-intelligent-reasoning-systems/jboss/jbpm-server-7.12.0.Final-dist/bin/standalone.sh
 
 > **Go to URL using web browser** http://localhost:8080/jbpm-console/
 
+> import project from URL "file:///home/iss-user/iss-vm-program/CaoLiang-Mortgage_Process_ISS_MR"
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
@@ -61,7 +64,8 @@ Mortgage process system utilizes the machine reasoning technics to help the bank
 
 ---
 ## SECTION 7 : MISCELLANEOUS
-
+** S-MR bank loan example v001.xlsx
+- Sample data for machine reasoning rules
 
 ---
 
